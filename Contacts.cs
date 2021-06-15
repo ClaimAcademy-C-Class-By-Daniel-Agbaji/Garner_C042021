@@ -19,7 +19,7 @@ namespace PhoneBook
         public static List<Contacts> People = new List<Contacts>();
 
 
-
+        //My name is Tim
         public void DisplayContacts(Contacts contacts)
         {
             Console.WriteLine($"First Name: {contacts.FirstName}");
